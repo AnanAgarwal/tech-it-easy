@@ -1,3 +1,1 @@
 # tech-it-easy
-
-contributors
